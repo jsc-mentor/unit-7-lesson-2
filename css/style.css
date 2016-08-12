@@ -1,0 +1,36 @@
+body {
+	text-align: center; 
+  height: 2000px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+
+p {
+  font-size: 50px;
+  font-style: italic;
+  color: #EF461F;
+  font-weight: bold;
+}
+
+#trigger {
+  background-color: #FCEE21;
+  width: 150px;
+  height: 100px;
+  border-radius: 6px;
+  margin: 0 auto;
+}
+
+
+
+.snazzy {
+  background-color: pink;
+  color: turquoise;
+}
